@@ -1,5 +1,11 @@
 # Semen Tonasa — video review
 
+## Unduh kualitas penuh
+
+[Video Full HD — ElevenLabs](Tonasa-Full-HD-ElevenLabs.mp4)
+
+Resolusi vertikal **1080 × 1920**, 30 FPS, durasi **2 menit 2 detik**, ukuran **29,2 MB**. Narasi George, musik, efek, dan takarir sama dengan versi review ringan. Audio stereo. Buka file lalu pilih **Download raw file** di GitHub untuk menyimpan MP4 kualitas penuh.
+
 ## Versi terbaru: ElevenLabs
 
 [Buka video dengan suara George](Tonasa-Review-ElevenLabs.mp4).
